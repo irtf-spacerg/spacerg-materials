@@ -1,5 +1,5 @@
 # space rg
 
-Systems and Protocol Adaptations for Circumstellar Environments (SPACE) Research Group
+Systems and Protocol Adaptations for Circumstellar Environments Research Group (SPACE RG)
 
-(formerly: Non-Terrestrial Networking Research Group (ntnrg))
+_formerly:_ Non-Terrestrial Networking Research Group (NTNRG)
