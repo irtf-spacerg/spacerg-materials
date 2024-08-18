@@ -9,6 +9,7 @@ The intended work products of the SPACE RG include an evaluation of the impact o
 * Simulation, measurement, or testing techniques particularly well suited for aerospace networks.
 * Analysis of any impact on transport protocols as paths experience regular changes in characteristics like latency, jitter, and loss associated with nominal platform behavior.
 * Investigation of the challenges and benefits of tuning existing transport and application protocols in emerging aerospace network architectures.
+* Researching applicability of Traffic Engineering techniques for optimizing data flow in aerospace networks, considering unique challenges such as dynamic topologies, high latency, and limited bandwidth.
 * Exploration of management approaches that take into account aerospace-network-specifics. 
 * Conception of application models and interfaces considering human and robotic aerospace networks.
 
