@@ -15,7 +15,7 @@ The intended work products of the SPACE RG include an evaluation of the impact o
 
 SPACE RG may also consider the implications and requirements for aerospace nodes from different administrative domains dynamically providing connectivity. The control plane requirements and trust model design parameters are especially relevant.
 
-The group shall consider emerging related protocols from organizations such as CCSDS and 3GPP, and assess adaptations for IETF protocols to integrate with other underlying or overlaying technologies.
+The group will consider related architectures and protocols from academia, industry, and organizations such as CCSDS and 3GPP.
 
 An explicit non-goal is to propose changes to existing IETF protocols. The research group may explore ideas that require such changes and is uniquely placed to discuss their implications with the IETF community. Still, the potential incorporation of such ideas into the standards process is a matter for the IETF and is out of the scope of this group.
 
