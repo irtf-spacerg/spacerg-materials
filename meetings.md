@@ -13,7 +13,7 @@
 * Round table: Where would you see opportunities and gaps to explore in the RG? (20min) [all]
 * Charter discussion and next steps (10min) [all]
 
-[Meeting minutes](122-side-minutes.md)
+[Meeting minutes](meetings/122-side/122-side-minutes.md)
 
 
 
