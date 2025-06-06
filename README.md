@@ -11,6 +11,9 @@ _formerly:_ Non-Terrestrial Networking Research Group (NTNRG)
 #### Mailing list: space@irtf.org
 Subscribe here: https://mailman3.irtf.org/mailman3/lists/space.irtf.org/
 
+#### Meetings
+We run (side) meetings at IETFs: [Meeting history](meetings.md)
+
 ## Motivation
 
 The Proposed Systems and Protocol Adaptations for Circumstellar Environments Research Group (SPACE RG) shall be chartered to explore and investigate research questions related to architecture, protocol design, manageability considerations, and approaches to operationalize several categories of non-terrestrial networks. 
