@@ -49,37 +49,37 @@ The meeting was convened to discuss the possible chartering of a new Research Gr
 
 ### Attendees
 
-Nitinder Mohan
-Matthias Hoffstadter
-Brian Sipos
-Ulrich Speidel
-Mike Puchol
-Dominic Laniewski
-J Pan
-Marc Blanchet
-Oriol Fuste
-Scott Burleigh
-Shashank Yadav
-Til Zimmerman
-Kevin Shortt
-Masato Hirose
-Sirapop (UCLA student)
-c.j.
-Kazunori Fujiwara
-David Ikpaya
-Michael Welzl
-Bernal Akcali Gur
-Boris Khasanov
-Ines Robles
-Jie Dong
-Lie Zhou
-Marcus
-Mekko Gavo?
-Oriol Fuste
-Richard Sheffeneger (?)
-Zongpeng Du (CMCC)
-Yamato
-Jing
-Eric Vyncke
-Wes Hardaker
+Nitinder Mohan,
+Matthias Hoffstadter,
+Brian Sipos,
+Ulrich Speidel,
+Mike Puchol,
+Dominic Laniewski,
+J Pan,
+Marc Blanchet,
+Oriol Fuste,
+Scott Burleigh,
+Shashank Yadav,
+Til Zimmerman,
+Kevin Shortt,
+Masato Hirose,
+Sirapop (UCLA student),
+c.j.,
+Kazunori Fujiwara,
+David Ikpaya,
+Michael Welzl,
+Bernal Akcali Gur,
+Boris Khasanov,
+Ines Robles,
+Jie Dong,
+Lie Zhou,
+Marcus,
+Mekko Gavo?,
+Oriol Fuste,
+Richard Sheffeneger (?),
+Zongpeng Du (CMCC),
+Yamato,
+Jing,
+Eric Vyncke,
+Wes Hardaker,
 Sandy Zhang
