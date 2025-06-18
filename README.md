@@ -8,9 +8,11 @@ The SPACE Research Group (SPACERG) explores systems and protocol design for netw
 
 ## Organizers
 
-- **Juan A. Fraire** (INRIA) – <juanfraire@gmail.com>  
-- **Jörg Ott** (TUM) – <ott@in.tum.de>  
-- **Nishant Sastry** (University of Surrey) – <n.sastry@surrey.ac.uk>
+- **Chairs**
+    - **Juan A. Fraire** (INRIA) – <juan.fraire@inria.fr>  
+    - **Jörg Ott** (TUM) – <ott@in.tum.de>  
+- **Collaborators**
+    - **Nishant Sastry** (University of Surrey) – <n.sastry@surrey.ac.uk>
 
 ## Mailing List
 
