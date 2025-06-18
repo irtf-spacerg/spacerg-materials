@@ -20,7 +20,7 @@ The SPACE Research Group (SPACERG) explores systems and protocol design for netw
 ## Meetings
 
 We organize side meetings at IETF conferences and other events.  
-🗓️ View the [Meeting History](meetings.md)
+🗓️ View the [Meeting History](meetings/meetings.md)
 
 ---
 
@@ -28,4 +28,4 @@ We organize side meetings at IETF conferences and other events.
 
 ## Draft charter
 
-Our work-in-progress charter can be found [here](charter.md).
+Our work-in-progress charter can be found [here](charter/charter.md).
