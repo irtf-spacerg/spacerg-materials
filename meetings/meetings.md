@@ -3,7 +3,7 @@
 ## Side meeting at IETF 123 (Madrid)
 
 ## Logistics
-* El Escorial on Thursday, July 24 at 11:30 CEST ([see board](https://trello.com/c/4DBZal5A))
+* El Escorial on Thursday, July 24 at 11:30-13:00 CEST ([see board](https://trello.com/c/4DBZal5A))
 
 ## Agenda
 * Agenda, intro, motivation including new charter (5 min) [Juan]
