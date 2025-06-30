@@ -11,6 +11,7 @@
   * [Joan Adrià Ruiz de Azúa] (i2Cat, Spain): 3GPP-related space protocol research (Title TBD)
   * [Andreas Schmidt] (Saarland University, Germany):Sustainability and Transport Layer in Space Networks (Title TBD)
   * [Rick Taylor] (Aalyria, UK): Space Network Management Research (Title TBD)
+  * [Michael Menth] (Eberhard Karls University of Tübingen): (Title TBD)
 * Charter bashing [all]
   * Collect interested people who’d like to contribute
 
