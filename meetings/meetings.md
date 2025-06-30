@@ -1,8 +1,21 @@
 # SPACE RG meetings
 
-## Upcoming: (side) meeting at IETF 123 (Madrid)
+## Side meeting at IETF 123 (Madrid)
 
-## Side meeting IETF 122 (Bangkok)
+## Logistics
+* El Escorial on Thursday, July 24 at 11:30 CEST ([see board](https://trello.com/c/4DBZal5A))
+
+## Agenda
+* Agenda, intro, motivation including new charter (5 min) [Juan]
+* Short talks for background (10-15 min each)
+  * [Joan Adrià Ruiz de Azúa] (i2Cat, Spain): 3GPP-related space protocol research (Title TBD)
+  * [Andreas Schmidt] (Saarland University, Germany):Sustainability and Transport Layer in Space Networks (Title TBD)
+  * [Rick Taylor] (Aalyria, UK): Space Network Management Research (Title TBD)
+* Charter bashing [all]
+  * Collect interested people who’d like to contribute
+
+
+## Side meeting at IETF 122 (Bangkok)
 
 ### Agenda
 * Introduction (7min) [Jörg] [slides](122-side/2025-03-122-side-intro.pdf)
