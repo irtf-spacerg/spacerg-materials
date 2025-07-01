@@ -9,9 +9,9 @@
 * Agenda, intro, motivation including new charter (5 min) [Juan]
 * Short talks for background (10-15 min each)
   * [Joan Adrià Ruiz de Azúa] (i2Cat, Spain): 3GPP-related space protocol research (Title TBD)
-  * [Andreas Schmidt] (Saarland University, Germany):Sustainability and Transport Layer in Space Networks (Title TBD)
+  * [Andreas Schmidt] (Saarland University, Germany): "Computers in Orbit: Green & Efficient?" (15 min)
   * [Rick Taylor] (Aalyria, UK): Space Network Management Research (Title TBD)
-  * [Michael Menth] (Eberhard Karls University of Tübingen): (Title TBD)
+  * [Michael Menth] (Tübingen University, Germany): (Title TBD)
 * Charter bashing [all]
   * Collect interested people who’d like to contribute
 
@@ -24,9 +24,9 @@
 ### Agenda
 * Introduction (7min) [Jörg] [slides](122-side/2025-03-122-side-intro.pdf)
 * Short talks for background (clarifying questions only) 
-  * Juan Fraire: Models and Methods for Near-Earth and Deep Space Networking (7min) [slides](122-side/2025-03-122-side-Models-and-Methods.pdf)
-  * Ulrich Speidel: How fast can Starlink really be? A quick summary (7min)
-  * Nishanth Sastry: LEOscope-A global measurement testbed for LEO Satellite Networks (7 min) [slides](122-side/2025-03-122-side-LEOScope.pdf)
+  * Juan Fraire: "Models and Methods for Near-Earth and Deep Space Networking" (7min) [slides](122-side/2025-03-122-side-Models-and-Methods.pdf)
+  * Ulrich Speidel: "How Fast can Starlink Really Be? A Quick Summary" (7min)
+  * Nishanth Sastry: "LEOscope-A Global Measurement Testbed for LEO Satellite Networks" (7 min) [slides](122-side/2025-03-122-side-LEOScope.pdf)
 * Round table: Where would you see opportunities and gaps to explore in the RG? (20min) [all]
 * Charter discussion and next steps (10min) [all]
 
