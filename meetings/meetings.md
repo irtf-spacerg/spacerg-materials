@@ -2,10 +2,10 @@
 
 ## Side meeting at IETF 123 (Madrid)
 
-## Logistics
+### Logistics
 * El Escorial on Thursday, July 24 at 11:30-13:00 CEST ([see board](https://trello.com/c/4DBZal5A))
 
-## Agenda
+### Agenda
 * Agenda, intro, motivation including new charter (5 min) [Juan]
 * Short talks for background (10-15 min each)
   * [Joan Adrià Ruiz de Azúa] (i2Cat, Spain): 3GPP-related space protocol research (Title TBD)
@@ -18,7 +18,7 @@
 
 ## Side meeting at IETF 122 (Bangkok)
 
-## Logistics
+### Logistics
 * Meeting Room 2 on Tuesday March 18 at 15:00-16:00 ICT ([see board](https://trello.com/c/oqEoQIua))
 
 ### Agenda
