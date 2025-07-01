@@ -6,13 +6,13 @@
 * El Escorial on Thursday, July 24 at 11:30-13:00 CEST ([see board](https://trello.com/c/4DBZal5A))
 
 ### Agenda
-* Agenda, intro, motivation including new charter (5 min) [Juan]
-* Short talks for background (10-15 min each)
-  * [Joan Adrià Ruiz de Azúa] (i2Cat, Spain): 3GPP-related space protocol research (Title TBD)
+* Agenda, intro, motivation including new charter [Juan] (10 min)
+* Short talks for background (1 hour)
+  * [Joan Adrià Ruiz de Azúa] (i2Cat, Spain): 3GPP-related space protocol research -Title TBD- (15 min)
   * [Andreas Schmidt] (Saarland University, Germany): "Computers in Orbit: Green & Efficient?" (15 min)
-  * [Rick Taylor] (Aalyria, UK): Space Network Management Research (Title TBD)
-  * [Michael Menth] (Tübingen University, Germany): (Title TBD)
-* Charter bashing [all]
+  * [Rick Taylor] (Aalyria, UK): Space Network Management Research -Title TBD- (15 min)
+  * [Michael Menth] (Tübingen University, Germany): -Title TBD- (15 min)
+* Charter bashing [all] (20 min)
   * Collect interested people who’d like to contribute
 
 
