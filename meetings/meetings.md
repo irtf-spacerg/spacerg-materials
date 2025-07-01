@@ -18,6 +18,9 @@
 
 ## Side meeting at IETF 122 (Bangkok)
 
+## Logistics
+* Meeting Room 2 on Tuesday March 18 at 15:00-16:00 ICT ([see board](https://trello.com/c/oqEoQIua))
+
 ### Agenda
 * Introduction (7min) [Jörg] [slides](122-side/2025-03-122-side-intro.pdf)
 * Short talks for background (clarifying questions only) 
