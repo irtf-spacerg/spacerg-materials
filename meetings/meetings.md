@@ -13,7 +13,6 @@
   * [Rick Taylor] (Aalyria, UK): Space Network Management Research -Title TBD- (15 min)
   * [Michael Menth] (Tübingen University, Germany): -Title TBD- (15 min)
 * Charter bashing [all] (20 min)
-  * Collect interested people who’d like to contribute
 
 
 ## Side meeting at IETF 122 (Bangkok)
