@@ -1,5 +1,5 @@
 # SPACE RG meetings
-> _To-be proposed research group.
+> To-be proposed research group.
 
 ## Side meeting at IETF 123 (Madrid)
 
