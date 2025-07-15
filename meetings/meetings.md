@@ -12,7 +12,7 @@
   * [Joan Adrià Ruiz de Azúa] (i2Cat, Spain): 3GPP-related space protocol research -Title TBD- (15 min)
   * [Andreas Schmidt] (Saarland University, Germany): "Computers in Orbit: Green & Efficient?" (15 min)
   * [Rick Taylor] (Aalyria, UK): Space Network Management Research -Title TBD- (15 min)
-  * [Michael Menth] (Tübingen University, Germany): -Title TBD- (15 min)
+  * [Michael Menth] (Tübingen University, Germany): "Inter-Satellite Routing with Resource-Constraint Forwarding Nodes" (15 min)
 * Charter bashing [all] (20 min)
 
 
