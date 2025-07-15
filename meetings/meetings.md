@@ -9,7 +9,7 @@
 ### Agenda
 * Agenda, intro, motivation including new charter [Juan] (10 min)
 * Short talks for background (1 hour)
-  * [Joan Adrià Ruiz de Azúa] (i2Cat, Spain): 3GPP-related space protocol research -Title TBD- (15 min)
+  * [Joan Adrià Ruiz de Azúa] (i2Cat, Spain): "NTN developments and contributions: from design principles towards in-field demonstrations" (15 min)
   * [Andreas Schmidt] (Saarland University, Germany): "Computers in Orbit: Green & Efficient?" (15 min)
   * [Rick Taylor] (Aalyria, UK): Space Network Management Research -Title TBD- (15 min)
   * [Michael Menth] (Tübingen University, Germany): "Inter-Satellite Routing with Resource-Constraint Forwarding Nodes" (15 min)
