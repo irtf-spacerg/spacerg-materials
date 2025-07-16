@@ -7,13 +7,13 @@
 * El Escorial on Thursday, July 24 at 11:30-13:00 CEST ([see board](https://trello.com/c/4DBZal5A))
 
 ### Agenda
-* Agenda, intro, motivation including new charter [Juan] (10 min)
+* Agenda and Introduction [Juan] (10 min)
 * Short talks for background (1 hour)
   * [Joan Adrià Ruiz de Azúa] (i2Cat, Spain): "NTN developments and contributions: from design principles towards in-field demonstrations" (15 min)
   * [Andreas Schmidt] (Saarland University, Germany): "Computers in Orbit: Green & Efficient?" (15 min)
-  * [Rick Taylor] (Aalyria, UK): Space Network Management Research -Title TBD- (15 min)
+  * [Rick Taylor] (Aalyria, UK): "Challenges in Deep Space Networking" (15 min)
   * [Michael Menth] (Tübingen University, Germany): "Inter-Satellite Routing with Resource-Constraint Forwarding Nodes" (15 min)
-* Charter bashing [all] (20 min)
+* New Charter Bashing [all] (20 min)
 
 
 ## Side meeting at IETF 122 (Bangkok)
