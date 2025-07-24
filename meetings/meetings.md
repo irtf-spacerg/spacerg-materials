@@ -17,7 +17,7 @@
 
 [Meeting notes](https://hedgedoc.cit.tum.de/d2MAWJu0T22un9hMCvuIdA)
 
-[Meeting pic1](123-side/pic-1.pdf), [Meeting pic2](123-side/pic-2.pdf) 
+[Meeting pic1](123-side/pic-1.jpeg), [Meeting pic2](123-side/pic-2.jpeg) 
 
 
 ## Side meeting at IETF 122 (Bangkok)
