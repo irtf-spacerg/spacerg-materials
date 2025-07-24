@@ -16,6 +16,7 @@
 * New Charter Bashing [all] (20 min)
 
 [Meeting notes](https://hedgedoc.cit.tum.de/d2MAWJu0T22un9hMCvuIdA)
+
 [Meeting pic1](123-side/pic-1.pdf), [Meeting pic2](123-side/pic-2.pdf) 
 
 
