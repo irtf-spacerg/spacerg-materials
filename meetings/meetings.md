@@ -9,10 +9,10 @@
 ### Agenda
 * Agenda and Overview [Juan] (10 min) [slides](123-side/slides-juan.pdf)
 * Short talks for background (1 hour)
-  * [Joan Adrià Ruiz de Azúa] (i2Cat, Spain): "NTN developments and contributions: from design principles towards in-field demonstrations" (15 min)
-  * [Andreas Schmidt] (Saarland University, Germany): "Computers in Orbit: Green & Efficient?" (15 min)
-  * [Rick Taylor] (Aalyria, UK): "Challenges in Deep Space Networking" (15 min)
-  * [Michael Menth] (Tübingen University, Germany): "Inter-Satellite Routing with Resource-Constraint Forwarding Nodes" (15 min)
+  * [Joan Adrià Ruiz de Azúa] (i2Cat, Spain): "NTN developments and contributions: from design principles towards in-field demonstrations" (15 min) [slides](123-side/slides-joan.pdf)
+  * [Andreas Schmidt] (Saarland University, Germany): "Computers in Orbit: Green & Efficient?" (15 min) [slides](123-side/slides-andreas.pdf)
+  * [Rick Taylor] (Aalyria, UK): "Challenges in Deep Space Networking" (15 min) [slides](123-side/slides-rick.pdf)
+  * [Michael Menth] (Tübingen University, Germany): "Inter-Satellite Routing with Resource-Constraint Forwarding Nodes" (15 min) [slides](123-side/slides-michael.pdf)
 * New Charter Bashing [all] (20 min)
 
 
