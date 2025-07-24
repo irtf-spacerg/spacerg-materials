@@ -12,7 +12,7 @@
   * [Joan Adrià Ruiz de Azúa] (i2Cat, Spain): "NTN developments and contributions: from design principles towards in-field demonstrations" (15 min) [slides](123-side/slides-joan.pdf)
   * [Andreas Schmidt] (Saarland University, Germany): "Computers in Orbit: Green & Efficient?" (15 min) [slides](123-side/slides-andreas.pdf)
   * [Rick Taylor] (Aalyria, UK): "Challenges in Deep Space Networking" (15 min) [slides](123-side/slides-rick.pdf)
-  * [Michael Menth] (Tübingen University, Germany): "Inter-Satellite Routing with Resource-Constraint Forwarding Nodes" (15 min) [slides](123-side/slides-michael.pdf)
+  * [Michael Menth] (Tübingen University, Germany): "Software-Defined Satellite Networking Based on Map'n'Encaps with Segment Routing" (15 min) [slides](123-side/slides-michael.pdf)
 * New Charter Bashing [all] (20 min)
 
 [Meeting notes](https://hedgedoc.cit.tum.de/d2MAWJu0T22un9hMCvuIdA)
