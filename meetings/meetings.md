@@ -15,6 +15,8 @@
   * [Michael Menth] (Tübingen University, Germany): "Inter-Satellite Routing with Resource-Constraint Forwarding Nodes" (15 min) [slides](123-side/slides-michael.pdf)
 * New Charter Bashing [all] (20 min)
 
+[Meeting notes](https://hedgedoc.cit.tum.de/d2MAWJu0T22un9hMCvuIdA)
+
 
 ## Side meeting at IETF 122 (Bangkok)
 
