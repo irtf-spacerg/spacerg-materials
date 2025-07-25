@@ -70,6 +70,8 @@ Aerospace networks feature several challenging properties that may impact all la
 1. **Mobility & Topology Dynamics:** High-speed movement, predictable and opportunistic links, frequent topology partitions or link disruptions.  
 2. **Environmental & Resource Constraints:** Atmospheric disturbances, limited energy, thermal variability, constrained onboard resources.
 
+Aerospace networks in SPACE RG spans a vast physical scope (airborne to deep space). However, the networking challenges share strong commonalities: high mobility, link disruptions, constrained environments, and high-cost infrastructure. Therefore, SPACE RG is in a good position to discover and catalize synergies between these different domains.
+
 Industry and standards organizations other than IETF (CCSDS, 3GPP, among others)  with different backgrounds are developing the underlying technologies; operators run today’s closed networks; and research communities (such as ACM SIGCOMM, SIGMOBILE) analyze the observable characteristics of these networks.  One focus area in the networking community has been, on the one hand, on simulation and emulation environments to explore path properties and routing protocols and, on the other hand on network measurements including analyzing continuously collected data sets (e.g., of RIPE Atlas probes), running individual experiments, and building up dedicated measurement infrastructure such as LEOscope.
 
 SPACE RG will start from and build up on these existing initiatives, with the initial goals to
