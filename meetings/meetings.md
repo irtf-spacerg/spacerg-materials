@@ -15,9 +15,7 @@
   * [Michael Menth] (Tübingen University, Germany): "Software-Defined Satellite Networking Based on Map'n'Encaps with Segment Routing" (15 min) [slides](123-side/slides-michael.pdf)
 * New Charter Bashing [all] (20 min)
 
-[Meeting notes](https://hedgedoc.cit.tum.de/d2MAWJu0T22un9hMCvuIdA)
-
-[Meeting pic1](123-side/pic-1.jpeg), [Meeting pic2](123-side/pic-2.jpeg) 
+Meeting materials: [notes](https://hedgedoc.cit.tum.de/d2MAWJu0T22un9hMCvuIdA), [pic1](123-side/pic-1.jpeg), [pic2](123-side/pic-2.jpeg).
 
 
 ## Side meeting at IETF 122 (Bangkok)
@@ -34,7 +32,7 @@
 * Round table: Where would you see opportunities and gaps to explore in the RG? (20min) [all]
 * Charter discussion and next steps (10min) [all]
 
-[Meeting minutes](122-side/122-side-minutes.md)
+Meeting materials: [minutes](122-side/122-side-minutes.md)
 
 
 
