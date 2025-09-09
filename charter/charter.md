@@ -23,5 +23,5 @@ SPACE RG will start from and build up on these existing initiatives, with the in
 3. Based upon the findings from 2., devise best practices and reference scenarios for simulations and measurements.  This could take the shape of an Informational RFC.  
 4. Document and foster the development of a dedicated measurement infrastructure for aerospace networks, such as the LEOscope.
 
-To achieve these goals, the research group will reach out to the different communities identified above, invite speakers and collaborators, and form and evolve its own community of contributors to progress infrastructure and its documentation. The research group will also meet regularly at the IETFs to support community formation and work progress.
+To achieve these goals, the research group will reach out to the different communities identified above, invite speakers and collaborators, and form and evolve its own community of contributors to progress infrastructure and its documentation. The research group will also meet regularly at the IETFs to support community formation and work progress. The group will primarily draw from interested researchers, while also reaching out to industry stakeholders to broaden participation and foster stronger academia–industry collaboration.
 

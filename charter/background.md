@@ -34,7 +34,9 @@ SPACE RG will engage with external organizations and internal IETF/IRTF initiati
 Given the sustainability implications aerospace networks may have, we foresee interaction with the SUSTAIN RG to this end.  
 * **External Stakeholders**: Academia (Research communities in SIGCOMM, SIGMOBILE, and beyond), Industry (Satellite operators, system integrators, and network equipment vendors), CCSDS (Consultative Committee for Space Data Systems), 3GPP (especially NTN-focused working groups), IPNSIG (Interplanetary Internet Special Interest Group).
 
-SPACE RG may assist in gathering insights from these different communities and foster mutual understanding in a bottom-up fashion by establishing common methodologies and baselines for system characterization and evaluation.
+Beyond academia and research groups, SPACE RG aims to actively engage industry stakeholders. 
+While researchers are already pursuing aerospace networking questions, the involvement of satellite operators, system integrators, and vendors is essential to validate methodologies, align with real-world constraints, and identify opportunities for interoperability. 
+By providing a neutral forum under the IRTF, SPACE RG intends to attract companies into contributing data, operational experience, and requirements that can complement academic research and accelerate progress toward practical solutions.
 
 ## Initial Contributions
 
