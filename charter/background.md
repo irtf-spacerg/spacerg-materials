@@ -52,9 +52,9 @@ This work will be more hypothetical in nature as present closed systems don’t 
 This includes control-plane design, data handling, and interoperability across heterogeneous and multi-operator environments. 
 This work informs the mid-term development of protocols and applications in other IETF WGs and IRTF RGs.
 
-SPACE RG will produce research-driven artifacts to inform and support IETF and IRTF efforts related to aerospace networking. 
-These may include white papers, Internet-Drafts, living documents (e.g., Wikis), curated datasets, configuration parameters, and evaluation metrics. 
-The group may also contribute tools and scripts for simulation and measurement, interface with community testbeds, and support platforms such as LEOscope. 
+SPACE RG also positions itself as a contributor to other IRTF and IETF efforts by providing realistic scenarios, curated data sets, and context insights derived from aerospace networking environments. 
+Rather than proposing protocol changes directly, the group’s influence will come through informing and grounding the work of active WGs and RGs. 
+By consolidating evaluation method, tools, testbeds, and reference scenarios, SPACE RG creates a shared foundation that enables other groups to reason about aerospace networks with consistent baselines.
 
 While SPACE RG may explore ideas that imply protocol adaptations, it will not propose changes to existing IETF protocols. 
 Instead, it will be an early-stage forum for discussing such implications and will facilitate knowledge transfer to appropriate IETF working groups where standards evolution can be further fostered. 
