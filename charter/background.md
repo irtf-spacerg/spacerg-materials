@@ -81,7 +81,7 @@ As we tap into existing research, the initial crystallization point will be unde
 SPACE RG will thus produce documentation on **methodology** to synthesize insights from this exchange into standard methodological baselines for designing, evaluating, and optimizing aerospace networks. 
 The intended output of SPACE RG includes:
 
-* **Written documents**. The current focus is on non-RFC-like activities, possibly living documents like Wikis, or formal outputs serving as checkpoints, like Whitepapers.  
+* **Written documents**. The current focus is on non-RFC-like activities, possibly living documents, or formal outputs serving as checkpoints, like Whitepapers.  
 * **Simulators and configurations**: metrics, reference scenarios (think TCP congestion control evaluation), shared code, and scripts.  
 * **Measurements**: metrics, guidelines, scripts, and platforms, to help make results reproducible and provide a forum for coordinating future activities.  
 Growing LEOscope or similar activities. 
