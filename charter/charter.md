@@ -32,8 +32,8 @@ This could be a Wiki, white paper, or one or more Internet Drafts.
 This could take the shape of an Informational RFC.  
 4. Document and foster the development of a dedicated measurement infrastructure for aerospace networks, such as the LEOscope.
 
-To achieve these goals, the research group will reach out to the different communities identified above, invite speakers and collaborators, and form and evolve its own community of contributors to progress infrastructure and its documentation. 
-The research group will also meet regularly at the IETFs to support community formation and work progress. 
-SPACE RG will provide scenarios, data, and context to related IETF/IRTF groups, ensuring their work can benefit from consistent and reproducible aerospace networking baselines. 
-The group will primarily draw from interested researchers, while also reaching out to industry stakeholders to broaden participation and foster stronger academia–industry collaboration.
+To achieve these goals, the research group will:
+1. Meet regularly at the IETFs to support community formation and work progress. 
+2. Reach out to the different communities (researchers, industry stakeholders, standards bodies) by inviting speakers and collaborators, and form and evolve a balanced community of contributors. 
+3. Provide scenarios, data, and context to related IETF/IRTF groups, ensuring their work can benefit from consistent and reproducible aerospace networking baselines. 
 
