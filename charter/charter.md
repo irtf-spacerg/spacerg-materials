@@ -15,7 +15,7 @@ These challenges have numerous technical root causes, including:
 1. **Mobility & Topology Dynamics:** High-speed movement, predictable and opportunistic links, frequent topology partitions or link disruptions.  
 2. **Environmental & Resource Constraints:** Atmospheric disturbances, limited energy, thermal variability, constrained onboard resources.
 
-Space networks in SPACE RG spans a vast physical scope (airborne to deep space). 
+Space networks in SPACE RG spans a vast physical scope (low-Earth orbit to deep space). 
 However, the networking challenges share strong commonalities: high mobility, link disruptions, constrained environments, and high-cost infrastructure. 
 Therefore, SPACE RG is in a good position to discover and catalize synergies between these different domains.
 
