@@ -30,7 +30,7 @@ Research efforts are dispersed across disciplines, ranging from aerospace engine
 This siloed landscape impedes progress toward Internet-aligned aerospace networking. 
 SPACE RG will engage with external organizations and internal IETF/IRTF initiatives to achieve this:
 
-* **IETF/IRTF Groups**: DTN WG (Delay/Disruption-Tolerant Networking), TIPTOP WG (Protocols for cislunar and deep space scenarios), TVR WG (Time-Variant Routing), PANRG  (Path-Aware Networking, relevant to LEO and multi-path architectures), and other groups under formation. 
+* **IETF/IRTF Groups**: DTN WG (Delay/Disruption-Tolerant Networking), TIPTOP WG (Protocols for cislunar and deep space scenarios), TVR WG (Time-Variant Routing), PANRG  (Path-Aware Networking, relevant to LEO and multi-path architectures), and GAIA RG (Global Access to the Internet for All), among others. 
 Given the sustainability implications aerospace networks may have, we foresee interaction with the SUSTAIN RG to this end.  
 * **External Stakeholders**: Academia (Research communities in SIGCOMM, SIGMOBILE, and beyond), Industry (Satellite operators, system integrators, and network equipment vendors), CCSDS (Consultative Committee for Space Data Systems), 3GPP (especially NTN-focused working groups), IPNSIG (Interplanetary Internet Special Interest Group).
 
