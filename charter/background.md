@@ -6,11 +6,10 @@ Proposed SPACE RG
 The Proposed Systems and Protocol Adaptations for Circumstellar Environments Research Group (SPACE RG) shall be chartered to explore and investigate research questions related to architecture, protocol design, manageability considerations, and approaches to operationalize several categories of non-terrestrial networks. 
 
 Specifically, the research group shall focus on networking among potentially heterogeneous nodes (by node type, administration, operator, among others) with highly dynamic connectivity imposed by their non-terrestrial deployment environment. 
-This includes High-Altitude Platforms (HAPS), typically in the stratosphere, satellites in Low, Medium, and Geostationary orbits (LEO, MEO, GEO), as well as platforms in other trajectories – cislunar and beyond. 
-Since similar considerations may also apply to lower altitude networks among airborne vehicles, both as provider and user of network services, we embrace other networked flying vehicles as well, noting that those may likely be different in scale, mobility, and predictability but pose related challenges to protocols and applications. 
-For brevity, all these are collectively referred to below as “aerospace networks”.
+This includes satellites in Low, Medium, and Geostationary orbits (LEO, MEO, GEO), as well as platforms in other trajectories – cislunar and beyond: we collectively refer to these networks as "space networks".
+Whhile similar considerations may also apply to High Altitude Platforms (HAPS), typically in the stratosphere, as well as lower altitude networks among airborne vehicles, both as provider and user of network services, those may likely differ in scale, mobility, and predictability. In spite of these posing related challenges to protocols and applications, we do intentionally not include such, but note possible linkages to this wider field of aerospace networks. 
 
-Aerospace networks feature several challenging properties that may impact all layers of the networking protocol stack, often in ways that contrast sharply with the assumptions underlying terrestrial networks. 
+Space networks feature several challenging properties that may impact all layers of the networking protocol stack, often in ways that contrast sharply with the assumptions underlying terrestrial networks. 
 These challenges have numerous root causes.
 
 1. **Mobility & Topology Dynamics:** High-speed movement, predictable and opportunistic links, frequent topology partitions.  
@@ -19,33 +18,34 @@ These challenges have numerous root causes.
 4. **Interoperability Across Domains:** Multi-operator coordination, heterogeneous platforms, administrative boundaries, protocol diversity.
 
 The state of the art addressing these challenges is fragmented and domain-specific. 
-Aerospace networks are typically built as isolated, operator-controlled systems, with routing, forwarding, and traffic management handled manually or through proprietary mechanisms. 
+Space networks are typically built as isolated, operator-controlled systems, with routing, forwarding, and traffic management handled manually or through proprietary mechanisms. 
 These operators have not shown much interest in engaging in standardization or interoperability efforts beyond peering with other ISPs. 
-As a result, multiple independent operator-specific aerospace networks have been emerging. 
+As a result, multiple independent operator-specific space networks have been emerging. 
 While the community may (have to) treat these networks as black boxes for the time being, political/regulatory questions may emerge in the future (see “Further Questions” below).
 
 ## Relevant Communities
 
-Research efforts are dispersed across disciplines, ranging from aerospace engineering to Internet systems, and standards development is similarly split across bodies like CCSDS, 3GPP, and IETF. 
-This siloed landscape impedes progress toward Internet-aligned aerospace networking. 
-SPACE RG will engage with external organizations and internal IETF/IRTF initiatives to achieve this:
+Especially the advent of LEO – and to some extent, MEO – constellations  has led to a recent surge (not just) in networking research, characterizing the “black box” properties of such (mega)constellations, envisioning routing and traffic management mechanisms, and exploring novel applications as well as the impact on existing ones, among many others, in the field of networking alone.  Research and industry efforts are dispersed across disciplines, ranging from aerospace engineering to Internet systems to (economic, ecological) sustainability to geopolitical perspectives.
+Standards development is also split across bodies like CCSDS, 3GPP, and IETF. This siloed landscape impedes progress toward Internet-aligned space networking.
+
+SPACE RG will engage with external organizations and internal IETF/IRTF initiatives to foster a common perspective:
 
 * **IETF/IRTF Groups**: DTN WG (Delay/Disruption-Tolerant Networking), TIPTOP WG (Protocols for cislunar and deep space scenarios), TVR WG (Time-Variant Routing), PANRG  (Path-Aware Networking, relevant to LEO and multi-path architectures), and GAIA RG (Global Access to the Internet for All), among others. 
-Given the sustainability implications aerospace networks may have, we foresee interaction with the SUSTAIN RG to this end.  
+Given the sustainability implications space networks may have, we foresee interaction with the SUSTAIN RG to this end.  
 * **External Stakeholders**: Academia (Research communities in SIGCOMM, SIGMOBILE, and beyond), Industry (Satellite operators, system integrators, and network equipment vendors), CCSDS (Consultative Committee for Space Data Systems), 3GPP (especially NTN-focused working groups), IPNSIG (Interplanetary Internet Special Interest Group).
 
 Beyond academia and research groups, SPACE RG aims to actively engage industry stakeholders. 
-While researchers are already pursuing aerospace networking questions, the involvement of satellite operators, system integrators, and vendors is essential to validate methodologies, align with real-world constraints, and identify opportunities for interoperability. 
+While researchers are already pursuing space networking questions, the involvement of satellite operators, system integrators, and vendors is essential to validate methodologies, align with real-world constraints, and identify opportunities for interoperability. 
 By providing a neutral forum under the IRTF, SPACE RG intends to attract companies into contributing data, operational experience, and requirements that can complement academic research and accelerate progress toward practical solutions.
 
 ## Initial Contributions
 
 SPACE RG will focus on technical work, including the following directions:
 
-* **Evaluation**: Systematizing techniques for aerospace network simulation, emulation, and in-orbit testing. 
+* **Evaluation**: Systematizing techniques for space network simulation, emulation, and in-orbit testing. 
 This includes surveying existing toolchains, identifying evaluation metrics, and compiling best practices for comparable and reproducible research.  
-This work will be based upon existing aerospace networks as measurable artifacts or simulation environments.  
-* **Optimization**: Investigating the design and operational optimization of aerospace networks. 
+This work will be based upon existing space networks as measurable artifacts or simulation environments.  
+* **Optimization**: Investigating the design and operational optimization of space networks. 
 This includes mathematical modeling, algorithmic approaches, and machine learning for scheduling, data handling, and predictive operations.  
 This work will be more hypothetical in nature as present closed systems don’t allow close access to real operation parameters or influence them, but it could inform future operations of aerospace networks.  
 * **Systemic**: Exploring architectural models, interfaces, and software paradigms for aerospace networks. 

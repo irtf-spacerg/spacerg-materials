@@ -5,17 +5,17 @@ Proposed SPACE RG
 
 The Systems and Protocol Adaptations for Circumstellar Environments Research Group (SPACE RG) is chartered to explore and investigate research questions related to architecture, protocol design, manageability considerations, and approaches to operationalize several categories of non-terrestrial networks. 
 
-Specifically, the research group focuses on networking among potentially heterogeneous nodes (by node type, administration, operator, among others) with highly dynamic connectivity imposed by their non-terrestrial or airborne deployment environment. 
-This includes High-Altitude Platforms (HAPS), typically in the stratosphere, satellites in Low, Medium, and Geostationary orbits (LEO, MEO, GEO), as well as platforms in other trajectories – cislunar and beyond – and lower altitude airborne vehicles (planes, drones) as providers and users of network connectivity. 
-For brevity, these are collectively referred to below as “aerospace networks”.
+Specifically, the research group focuses on networking among potentially heterogeneous nodes (by node type, administration, operator, among others) with highly dynamic connectivity imposed by their non-terrestrial deployment environment. 
+This includes satellites in Low, Medium, and Geostationary orbits (LEO, MEO, GEO), as well as platforms in other trajectories – cislunar and beyond – and their interplay with terrestrial infrastructure on the ground and airborne as providers and users of network connectivity. 
+For brevity, these are collectively referred to below as “space networks”.
 
-Aerospace networks feature several challenging properties that may impact all layers of the networking protocol stack, often in ways that contrast sharply with the assumptions underlying terrestrial networks. 
+Space networks feature several challenging properties that may impact all layers of the networking protocol stack, often in ways that contrast sharply with the assumptions underlying terrestrial networks. 
 These challenges have numerous technical root causes, including:
 
 1. **Mobility & Topology Dynamics:** High-speed movement, predictable and opportunistic links, frequent topology partitions or link disruptions.  
 2. **Environmental & Resource Constraints:** Atmospheric disturbances, limited energy, thermal variability, constrained onboard resources.
 
-Aerospace networks in SPACE RG spans a vast physical scope (airborne to deep space). 
+Space networks in SPACE RG spans a vast physical scope (airborne to deep space). 
 However, the networking challenges share strong commonalities: high mobility, link disruptions, constrained environments, and high-cost infrastructure. 
 Therefore, SPACE RG is in a good position to discover and catalize synergies between these different domains.
 
@@ -29,7 +29,7 @@ This could take the shape of a gut repo.
 2. Analyze and document present evaluation methodologies, such as measurement setups, performance metrics, simulation scenarios, "test cases," etc., to enable comparable and reproducible experiments. 
 3. Based upon the findings from 2., devise best practices and reference scenarios for simulations and measurements. 
 This could take the shape of an Informational RFC.  
-4. Document and foster the development of a dedicated measurement infrastructure for aerospace networks, such as the LEOscope.
+4. Document and foster the development of a dedicated measurement infrastructure for space networks, such as the LEOscope.
 
 To achieve these goals, the research group will:
 1. Meet regularly at the IETFs to support community formation and work progress. 
