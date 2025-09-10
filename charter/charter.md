@@ -34,5 +34,5 @@ This could take the shape of an Informational RFC.
 To achieve these goals, the research group will:
 1. Meet regularly at the IETFs to support community formation and work progress. 
 2. Reach out to the different communities (researchers, industry stakeholders, standards bodies) by inviting speakers and collaborators, and form and evolve a balanced community of contributors. 
-3. Provide scenarios, data, and context to related IETF/IRTF groups, ensuring their work can benefit from consistent and reproducible aerospace networking baselines. 
+3. Provide scenarios, data, and context to related IETF/IRTF groups, ensuring their work can benefit from consistent and reproducible space networking baselines. 
 
