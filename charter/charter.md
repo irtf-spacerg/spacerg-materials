@@ -25,10 +25,10 @@ One focus area in the networking community has been, on the one hand, on simulat
 SPACE RG will start from and build up on these existing initiatives, with the initial goals to
 
 1. Create a platform for an open, curated data repository that collects data sets and pointers to data sets to offer a comprehensive resource collection in a single place with suitable documentation. 
-This could take the shape of a gut repo.  
+This could take the shape of a git repo.  
 2. Analyze and document present evaluation methodologies, such as measurement setups, performance metrics, simulation scenarios, "test cases," etc., to enable comparable and reproducible experiments. 
 3. Based upon the findings from 2., devise best practices and reference scenarios for simulations and measurements. 
-This could take the shape of an Informational RFC.  
+This could take the shape of a a Wiki, another shared (living) document, or an Informational RFC.  
 4. Document and foster the development of a dedicated measurement infrastructure for space networks, such as the LEOscope.
 
 To achieve these goals, the research group will:
