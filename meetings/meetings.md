@@ -1,5 +1,23 @@
 # SPACE RG meetings
-> To-be proposed research group.
+> Proposed research group.
+
+## Side meeting at IETF 124 (Montreal)
+
+### Logistics
+* Laurier on Thursday, November 6th at 9:30-11:00 Local ([see agenda](https://datatracker.ietf.org/meeting/124/agenda))
+
+### Agenda
+
+* Agenda and Overview [Juan/Joerg] (10 min) 
+* Short talks for background 
+  * [Jason Gerard] (Amazon Kuiper, Concordia University): "Integrating Optical Downlinks in LEO Mega-Constellations through DTN and Link Scheduling" (25 min) 
+  * [Renata Texeira] (Netflix): "TBD" (25 min) 
+  * [Jianping Pan] (University of Victoria): "Measuring low-earth-orbit satellite networks" (25 min) 
+  
+* Wrap-up [all] (5 min)
+
+Meeting materials: TBC
+
 
 ## Side meeting at IETF 123 (Madrid)
 
