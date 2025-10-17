@@ -10,11 +10,12 @@
 
 * Agenda and Overview [Juan/Joerg] (10 min) 
 * Short talks for background 
-  * [Jason Gerard] (Amazon Kuiper, Concordia University): "Integrating Optical Downlinks in LEO Mega-Constellations through DTN and Link Scheduling" (25 min) 
-  * [Renata Texeira] (Netflix): "TBD" (25 min) 
-  * [Jianping Pan] (University of Victoria): "Measuring low-earth-orbit satellite networks" (25 min) 
+  * [Renata Texeira] (Netflix): "TBD" (15 min) 
+  * [Jason Gerard] (Amazon Kuiper, Concordia University): "Integrating Optical Downlinks in LEO Mega-Constellations through DTN and Link Scheduling" (15 min) 
+  * [Pablo Madoery] (Carleton University): "An AI-Enabled Testbed for Satellite Mega-Constellations" (15 min) 
+  * [Jianping Pan] (University of Victoria): "Measuring low-earth-orbit satellite networks" (15 min) 
   
-* Wrap-up [all] (5 min)
+* Wrap-up [all] (20 min)
 
 Meeting materials: TBC
 
