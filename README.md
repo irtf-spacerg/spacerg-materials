@@ -1,6 +1,6 @@
 # IRTF SPACERG – Systems and Protocol Aspects for Circumstellar Environments
 
-> _To-be proposed research group. Formerly: Non-Terrestrial Networking Research Group (NTNRG)_
+> _Proposed research group_
 
 ## Overview
 
