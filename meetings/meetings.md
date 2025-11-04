@@ -4,17 +4,23 @@
 ## Side meeting at IETF 124 (Montreal)
 
 ### Logistics
-* Laurier on Thursday, November 6th at 9:30-11:00 Local ([see agenda](https://datatracker.ietf.org/meeting/124/agenda))
+* Laurier Room on Thursday, November 6th at 9:30-11:00 Local ([see agenda](https://datatracker.ietf.org/meeting/124/agenda))
 
 ### Agenda
 
-* Introduction [Juan/Joerg] (10 min) 
-* Short talks for background 
-  * [Jason Gerard] (Amazon Kuiper, Concordia University): "Integrating Optical Downlinks in LEO Mega-Constellations through DTN and Link Scheduling" (20 min) 
-  * [Renata Texeira] (Netflix): "A Global Perspective on the Past, Present, and Future of Video Streaming Over Starlink" (20 min) 
-  * [Pablo Madoery] (Carleton University): "An AI-Enabled Testbed for Satellite Mega-Constellations" (15 min) 
-  * [Jianping Pan] (University of Victoria): "Measuring low-earth-orbit satellite networks" (15 min, online) 
-* Wrap-up [all] (10 min)
+* 09:30 - Introduction (chairs)
+* 09:40 - Jason Gerard, Amazon Kuiper (15 min)
+Integrating Optical Downlinks in LEO Mega-Constellations through DTN and Link Scheduling
+* 09:55 - Renata Texeira, Netflix (20 min)
+Netflix over LEO: Lessons in Adaptive Bitrate and Congestion Control
+(Renata also presented Low Orbit, High Impact: What We’ve Learned for Netflix Streaming over LEO at the [IRTF Open Meeting](https://datatracker.ietf.org/meeting/124/materials/agenda-124-irtfopen-02))
+* 10:15 - Pablo Madoery, Carleton University (15 min)
+An AI-Enabled Testbed for Satellite Mega-Constellations
+* 10:30 - J Pan, Univ Victoria (15 min, online)
+Measuring Low-Earth-Orbit Satellite Networks
+* 10:45 - Maxime Piraux, Aerospacelab (10 min, online)
+A Code to Describe Satellite Constellations ([link to I-D](https://github.com/mpiraux/draft-piraux-space-constellation-code))
+* 10:55 - Wrap-up
 
 Meeting materials: TBC
 
@@ -22,7 +28,7 @@ Meeting materials: TBC
 ## Side meeting at IETF 123 (Madrid)
 
 ### Logistics
-* El Escorial on Thursday, July 24 at 11:30-13:00 CEST ([see board](https://trello.com/c/4DBZal5A))
+* El Escorial Room on Thursday, July 24 at 11:30-13:00 CEST ([see board](https://trello.com/c/4DBZal5A))
 
 ### Agenda
 * Agenda and Overview [Juan] (10 min) [slides](123-side/slides-juan.pdf)
