@@ -1,7 +1,7 @@
 # SPACE RG meetings
 > Proposed research group.
 
-## Side meeting at IETF 124 (Montreal)
+## IETF 124 (Montreal)
 
 ### Logistics
 * Laurier Room on Thursday, November 6th at 9:30-11:00 Local ([see agenda](https://datatracker.ietf.org/meeting/124/agenda))
@@ -25,7 +25,7 @@ A Code to Describe Satellite Constellations ([link to I-D](https://github.com/mp
 Meeting materials: TBC
 
 
-## Side meeting at IETF 123 (Madrid)
+## IETF 123 (Madrid) - Side meeting
 
 ### Logistics
 * El Escorial Room on Thursday, July 24 at 11:30-13:00 CEST ([see board](https://trello.com/c/4DBZal5A))
@@ -42,7 +42,7 @@ Meeting materials: TBC
 Meeting materials: [notes](https://hedgedoc.cit.tum.de/d2MAWJu0T22un9hMCvuIdA), [pic1](123-side/pic-1.jpeg), [pic2](123-side/pic-2.jpeg).
 
 
-## Side meeting at IETF 122 (Bangkok)
+## IETF 122 (Bangkok) - Side meeting
 
 ### Logistics
 * Meeting Room 2 on Tuesday March 18 at 15:00-16:00 ICT ([see board](https://trello.com/c/oqEoQIua))
