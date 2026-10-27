@@ -1,6 +1,15 @@
 # SPACE RG meetings
 > Proposed research group.
 
+## Interim meeting at ESA/ESOC (Darmstadt)
+
+### Logistics
+* ESA/ESOC Press Centre, Darmstadt, on Tuesday, November 10th, 2026 at 09:00-17:30 CET ([see datatracker](https://datatracker.ietf.org/meeting/interim-2026-space-01/session/space))
+* Remote participation through [Meetecho](https://meetings.conf.meetecho.com/interim/?session=35935)
+
+### Agenda
+See the [full agenda](interim-2026-esoc/agenda.md).
+
 ## IETF 124 (Montreal)
 
 ### Logistics
