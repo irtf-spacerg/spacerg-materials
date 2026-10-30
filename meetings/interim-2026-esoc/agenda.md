@@ -12,7 +12,7 @@ ESA/ESOC Press Centre, Robert-Bosch-Str. 5, 64293 Darmstadt, Germany
 
 All times are CET (UTC+1). Talk slots include questions.
 
-## Agenda
+## Agenda (draft)
 
 ### 09:00 Opening (20 min)
 
@@ -24,7 +24,7 @@ All times are CET (UTC+1). Talk slots include questions.
 - **09:20** Tomaso De Cola (DLR): *Earth-to-Moon Networking: Comparison of End-to-End and DTN Approaches* (20 min)
 - **09:40** Andreas Schmidt (Saarland University): sustainable space, title TBA (20 min)
 - **10:00** Alessandro Golkar (remote): title TBA (15 min)
-- **10:15** The Mars Relay Network: ESA speaker TBC (15 min)
+- **10:15** Silvia Sangiorgi (ESA, Head of the Mars Exploration Missions Operations Unit): the Mars Relay Network, title TBA (15 min)
 
 ### 10:30 Coffee break (30 min)
 
