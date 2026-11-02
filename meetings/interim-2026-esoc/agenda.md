@@ -23,7 +23,7 @@ All times are CET (UTC+1). Talk slots include questions.
 
 - **09:20** Tomaso De Cola (DLR): *Earth-to-Moon Networking: Comparison of End-to-End and DTN Approaches* (20 min)
 - **09:40** Andreas Schmidt (Saarland University): sustainable space, title TBA (20 min)
-- **10:00** Alessandro Golkar (remote): title TBA (15 min)
+- **10:00** Marcin Bosk (TUM): air and space simulations, title TBA (15 min)
 - **10:15** Silvia Sangiorgi (ESA, Head of the Mars Exploration Missions Operations Unit): the Mars Relay Network, title TBA (15 min)
 
 ### 10:30 Coffee break (30 min)
@@ -32,7 +32,7 @@ All times are CET (UTC+1). Talk slots include questions.
 
 Talks from agencies and industry, followed by a moderated workshop on the role the IRTF and IETF can play in these developments. Any time the talks leave free goes to the workshop.
 
-- **11:00** ESA talk on ARTES (remote, TBC) (15 min)
+- **11:00** Paulo Mendes (Airbus, remote): networks in the sky, title TBA (15 min)
 - **11:15** Industry talk on non-terrestrial networks (TBC) (15 min)
 - **11:30** Emrah Tomur (Nokia, on site) and Clifton Fernandes (Nokia, remote): Nokia's vision for connected space, with the status of NTN security in 3GPP and O-RAN (20 min)
 - **11:50** Maxime Piraux (Aerospacelab): *On the intersection of IETF and industry visions* (15 min)
@@ -49,9 +49,10 @@ Meetecho resumes at 14:30.
 
 A whiteboard-style discussion opened by short inputs, moderated by Juan Fraire.
 
-- **14:30** Camillo Malnati (ESA): CCSDS DTN reference scenarios and the testbed, all open source and available for research (20 min)
-- **14:50** Juan Fraire, Nishanth Sastry and Maxime Piraux: what the [tools registry](https://irtf-spacerg.github.io/id-leo-tools/registry/) and the [constellation registry](https://irtf-spacerg.github.io/id-leo-constellations/registry/) cover today, and their gaps (30 min)
-- **15:20** Discussion: reference evaluation scenarios per area (LEO, cislunar, deep space), shared data sets, and which tools the RG could develop further (40 min)
+- **14:30** Alessandro Golkar (remote): *How much centralization does a satellite constellation need?* (15 min)
+- **14:45** Camillo Malnati (ESA): CCSDS DTN reference scenarios and the testbed, all open source and available for research (20 min)
+- **15:05** Juan Fraire, Nishanth Sastry and Maxime Piraux: what the [tools registry](https://irtf-spacerg.github.io/id-leo-tools/registry/) and the [constellation registry](https://irtf-spacerg.github.io/id-leo-constellations/registry/) cover today, and their gaps (25 min)
+- **15:30** Discussion: reference evaluation scenarios per area (LEO, cislunar, deep space), shared data sets, and which tools the RG could develop further (30 min)
 
 ### 16:00 Coffee break (30 min)
 
