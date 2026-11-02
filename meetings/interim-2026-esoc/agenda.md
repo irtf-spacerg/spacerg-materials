@@ -32,7 +32,7 @@ All times are CET (UTC+1). Talk slots include questions.
 
 Talks from agencies and industry, followed by a moderated workshop on the role the IRTF and IETF can play in these developments. Any time the talks leave free goes to the workshop.
 
-- **11:00** Paulo Mendes (Airbus, remote): networks in the sky, title TBA (15 min)
+- **11:00** Paulo Mendes (Airbus, remote): *Routing in time-varying networks* (15 min)
 - **11:15** Industry talk on non-terrestrial networks (TBC) (15 min)
 - **11:30** Emrah Tomur (Nokia, on site) and Clifton Fernandes (Nokia, remote): Nokia's vision for connected space, with the status of NTN security in 3GPP and O-RAN (20 min)
 - **11:50** Maxime Piraux (Aerospacelab): *On the intersection of IETF and industry visions* (15 min)
