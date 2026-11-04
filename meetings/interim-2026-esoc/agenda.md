@@ -22,8 +22,8 @@ All times are CET (UTC+1). Talk slots include questions.
 ### 09:20 Session 1: Research talks (70 min)
 
 - **09:20** Tomaso De Cola (DLR): *Earth-to-Moon Networking: Comparison of End-to-End and DTN Approaches* (20 min)
-- **09:40** Andreas Schmidt (Saarland University): sustainable space, title TBA (20 min)
-- **10:00** Marcin Bosk (TUM): air and space simulations, title TBA (15 min)
+- **09:40** Andreas Schmidt (Saarland University): *Space for Sustainability?* (20 min)
+- **10:00** Marcin Bosk (TUM): *Simulating Satellite Constellations and Aircraft with Real-World Data* (15 min)
 - **10:15** Silvia Sangiorgi (ESA, Head of the Mars Exploration Missions Operations Unit): the Mars Relay Network, title TBA (15 min)
 
 ### 10:30 Coffee break (30 min)
