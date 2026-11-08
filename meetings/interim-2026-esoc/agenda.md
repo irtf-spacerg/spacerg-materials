@@ -21,6 +21,8 @@ All times are CET (UTC+1). Talk slots include questions.
 
 ### 09:20 Session 1: Research talks (70 min)
 
+Chair: Joerg Ott.
+
 - **09:20** Tomaso De Cola (DLR): *Earth-to-Moon Networking: Comparison of End-to-End and DTN Approaches* (20 min)
 - **09:40** Andreas Schmidt (Saarland University): *Space for Sustainability?* (20 min)
 - **10:00** Marcin Bosk (TUM): *Simulating Satellite Constellations and Aircraft with Real-World Data* (15 min)
@@ -30,7 +32,7 @@ All times are CET (UTC+1). Talk slots include questions.
 
 ### 11:00 Session 2: European and Industry directions for space networks (90 min)
 
-Talks from agencies and industry, followed by a moderated workshop on the role the IRTF and IETF can play in these developments. Any time the talks leave free goes to the workshop.
+Chair: Nishanth Sastry. Talks from agencies and industry, followed by a workshop on the role the IRTF and IETF can play in these developments.
 
 - **11:00** Paulo Mendes (Airbus, remote): *Routing in time-varying networks* (15 min)
 - **11:15** Emrah Tomur (Nokia, on site) and Clifton Fernandes (Nokia, remote): Nokia's vision for connected space, with the status of NTN security in 3GPP and O-RAN (20 min)
@@ -46,16 +48,18 @@ Meetecho resumes at 14:30.
 
 ### 14:30 Session 3: Working session I, evaluation scenarios and tools (90 min)
 
-A whiteboard-style discussion opened by short inputs, moderated by Juan Fraire.
+Chair: Juan Fraire. A whiteboard-style discussion opened by short inputs.
 
 - **14:30** Alessandro Golkar (remote): *How much centralization does a satellite constellation need?* (15 min)
 - **14:45** Camillo Malnati (ESA): *CCSDS DTN Reference Scenarios and NSE2: Overview and Practical Use* (20 min)
 - **15:05** Juan Fraire, Nishanth Sastry and Maxime Piraux: what the [tools registry](https://irtf-spacerg.github.io/id-leo-tools/registry/), the [constellation registry](https://irtf-spacerg.github.io/id-leo-constellations/registry/), and the [constellation code](https://datatracker.ietf.org/doc/draft-piraux-space-constellation-code/) cover today, and their gaps (25 min)
-- **15:30** Discussion: reference evaluation scenarios per area (LEO, cislunar, deep space), shared data sets, and which tools the RG could develop further (30 min)
+- **15:30** Discussion: reference evaluation scenarios per area (LEO, cislunar, deep space), shared data sets, and which tools the RG could develop further. Moderated by Juan Fraire (30 min)
 
 ### 16:00 Coffee break (30 min)
 
 ### 16:30 Session 4: Working session II, the RG's next work items (60 min)
+
+Chair: Joerg Ott.
 
 - **16:30** Charter check: map the day's input to the charter, pick a few concrete work items, and find an owner for each. Moderated by Joerg Ott (45 min)
 - **17:15** Wrap-up and next steps: chairs (15 min)
