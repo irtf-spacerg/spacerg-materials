@@ -50,7 +50,7 @@ Meetecho resumes at 14:30.
 
 Chair: Juan Fraire. A whiteboard-style discussion opened by short inputs.
 
-- **14:30** Alessandro Golkar (remote): *How much centralization does a satellite constellation need?* (15 min)
+- **14:30** Alessandro Golkar (TUM, remote): *How much centralization does a satellite constellation need?* (15 min)
 - **14:45** Camillo Malnati (ESA): *CCSDS DTN Reference Scenarios and NSE2: Overview and Practical Use* (20 min)
 - **15:05** Juan Fraire, Nishanth Sastry and Maxime Piraux: what the [tools registry](https://irtf-spacerg.github.io/id-leo-tools/registry/), the [constellation registry](https://irtf-spacerg.github.io/id-leo-constellations/registry/), and the [constellation code](https://datatracker.ietf.org/doc/draft-piraux-space-constellation-code/) cover today, and their gaps (25 min)
 - **15:30** Discussion: reference evaluation scenarios per area (LEO, cislunar, deep space), shared data sets, and which tools the RG could develop further. Moderated by Juan Fraire (30 min)
