@@ -9,6 +9,7 @@ ESA/ESOC Press Centre, Robert-Bosch-Str. 5, 64293 Darmstadt, Germany
 - **On site**: please register by **Tuesday, 3 November** using the [ESA registration form](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=0Kxcmu8r102sXH6-H1T0ldN-38CCUUtNr3KzV40v9BVUMU1FQjI2VE1RM0RVUUxOVkQzVVRZRDdEVi4u). Places are limited and access to the site follows ESA security rules, so ESA confirms each place by email. Coffee breaks, lunch and a tour of ESOC are included.
 - **Remote**: no registration with ESA is needed. Join through [Meetecho](https://meetings.conf.meetecho.com/interim/?session=35935) with your free IETF datatracker account.
 - **Materials**: slides and minutes go on the [datatracker page of the interim](https://datatracker.ietf.org/meeting/interim-2026-space-01/session/space).
+- **Recording**: [morning sessions, 09:00 to 13:00](https://youtu.be/YjM5Legk8Ss).
 
 All times are CET (UTC+1). Talk slots include questions.
 
@@ -16,17 +17,17 @@ All times are CET (UTC+1). Talk slots include questions.
 
 ### 09:00 Opening (20 min)
 
-- **09:00** Welcome and introduction to ESOC: Daniel Fischer (ESA, Lead Ground Systems Architect) (10 min)
-- **09:10** Note Well, goals of the day, agenda bashing: chairs (10 min)
+- **09:00** Welcome and introduction to ESOC: Daniel Fischer (ESA, Lead Ground Systems Architect) (10 min) · [slides](https://datatracker.ietf.org/doc/slides-interim-2026-space-01-sessa-welcome-and-introduction-to-esoc-daniel-fischer-esa/)
+- **09:10** Note Well, goals of the day, agenda bashing: chairs (10 min) · [slides](https://datatracker.ietf.org/doc/slides-interim-2026-space-01-sessa-chairs-slides-note-well-goals-of-the-day-agenda/)
 
 ### 09:20 Session 1: Research talks (70 min)
 
 Chair: Joerg Ott.
 
-- **09:20** Tomaso De Cola (DLR): *Earth-to-Moon Networking: Comparison of End-to-End and DTN Approaches* (20 min)
-- **09:40** Andreas Schmidt (Saarland University): *Space for Sustainability?* (20 min)
-- **10:00** Marcin Bosk (TUM): *Simulating Satellite Constellations and Aircraft with Real-World Data* (15 min)
-- **10:15** Silvia Sangiorgi (ESA, Head of the Mars Exploration Missions Operations Unit): *Mars Relay Network: An Operational Example* (15 min)
+- **09:20** Tomaso De Cola (DLR): *Earth-to-Moon Networking: Comparison of End-to-End and DTN Approaches* (20 min) · [slides](https://datatracker.ietf.org/doc/slides-interim-2026-space-01-sessa-earth-to-moon-networking-comparison-of-end-to-end-and-dtn-approaches-tomaso-de-cola-dlr/)
+- **09:40** Andreas Schmidt (Saarland University): *Space for Sustainability?* (20 min) · [slides](https://datatracker.ietf.org/doc/slides-interim-2026-space-01-sessa-space-for-sustainability-andreas-schmidt-saarland-university/)
+- **10:00** Marcin Bosk (TUM): *Simulating Satellite Constellations and Aircraft with Real-World Data* (15 min) · [slides](https://datatracker.ietf.org/doc/slides-interim-2026-space-01-sessa-simulating-satellite-constellations-and-aircraft-with-real-world-data-marcin-bosk-tum/)
+- **10:15** Silvia Sangiorgi (ESA, Head of the Mars Exploration Missions Operations Unit): *Mars Relay Network: An Operational Example* (15 min) · [slides](https://datatracker.ietf.org/doc/slides-interim-2026-space-01-sessa-mars-relay-network-an-operational-example-silvia-sangiorgi-esa/)
 
 ### 10:30 Coffee break (30 min)
 
@@ -34,10 +35,10 @@ Chair: Joerg Ott.
 
 Chair: Nishanth Sastry. Talks from agencies and industry, followed by a workshop on the role the IRTF and IETF can play in these developments.
 
-- **11:00** Paulo Mendes (Airbus, remote): *Routing in time-varying networks* (15 min)
-- **11:15** Emrah Tomur (Nokia, on site) and Clifton Fernandes (Nokia, remote): Nokia's vision for connected space, with the status of NTN security in 3GPP and O-RAN (20 min)
-- **11:35** Maxime Piraux (Aerospacelab): *On the intersection of IETF and industry visions* (15 min)
-- **11:50** Tomaso De Cola (DLR): *Introducing the [Nexasphere](https://nexasphere.eu/) project* (10 min)
+- **11:00** Paulo Mendes (Airbus, remote): *Routing in time-varying networks* (15 min) · [slides](https://datatracker.ietf.org/doc/slides-interim-2026-space-01-sessa-routing-in-time-varying-networks-paulo-mendes-airbus/)
+- **11:15** Emrah Tomur (Nokia, on site) and Clifton Fernandes (Nokia, remote): Nokia's vision for connected space, with the status of NTN security in 3GPP and O-RAN (20 min) · [slides](https://datatracker.ietf.org/doc/slides-interim-2026-space-01-sessa-securing-connected-space-3gpp-ntn-from-5g-to-6g-emrah-tomur-and-clifton-fernandes-nokia/)
+- **11:35** Maxime Piraux (Aerospacelab): *On the intersection of IETF and industry visions* (15 min) · [slides](https://datatracker.ietf.org/doc/slides-interim-2026-space-01-sessa-towards-constellation-networks-built-from-ietf-technologies/)
+- **11:50** Tomaso De Cola (DLR): *Introducing the [Nexasphere](https://nexasphere.eu/) project* (10 min) · [slides](https://datatracker.ietf.org/doc/slides-interim-2026-space-01-sessa-introducing-the-nexasphere-project-tomaso-de-cola-dlr/)
 - **12:00** Workshop: what role for the IRTF and IETF? Moderated by Nishanth Sastry (30 min)
 
 ### 12:30 Lunch (60 min)
@@ -50,10 +51,10 @@ Meetecho resumes at 14:30.
 
 Chair: Juan Fraire. A whiteboard-style discussion opened by short inputs.
 
-- **14:30** Alessandro Golkar (TUM, remote): *How much centralization does a satellite constellation need?* (15 min)
-- **14:45** Camillo Malnati (ESA): *CCSDS DTN Reference Scenarios and NSE2: Overview and Practical Use* (20 min)
-- **15:05** Juan Fraire, Nishanth Sastry and Maxime Piraux: what the [tools registry](https://irtf-spacerg.github.io/id-leo-tools/registry/), the [constellation registry](https://irtf-spacerg.github.io/id-leo-constellations/registry/), and the [constellation code](https://datatracker.ietf.org/doc/draft-piraux-space-constellation-code/) cover today, and their gaps (25 min)
-- **15:30** Discussion: reference evaluation scenarios per area (LEO, cislunar, deep space), shared data sets, and which tools the RG could develop further. Moderated by Juan Fraire (30 min)
+- **14:30** Alessandro Golkar (TUM, remote): *How much centralization does a satellite constellation need?* (15 min) · [slides](https://datatracker.ietf.org/doc/slides-interim-2026-space-01-sessa-how-much-centralization-does-a-satellite-constellation-need-alessandro-golkar-tum/)
+- **14:45** Camillo Malnati (ESA): *CCSDS DTN Reference Scenarios and NSE2: Overview and Practical Use* (20 min) · [slides](https://datatracker.ietf.org/doc/slides-interim-2026-space-01-sessa-ccsds-dtn-reference-scenarios-and-nse2-overview-and-practical-use-camillo-malnati-esa/)
+- **15:05** Juan Fraire, Nishanth Sastry and Maxime Piraux: what the [tools registry](https://irtf-spacerg.github.io/id-leo-tools/registry/), the [constellation registry](https://irtf-spacerg.github.io/id-leo-constellations/registry/), and the [constellation code](https://datatracker.ietf.org/doc/draft-piraux-space-constellation-code/) cover today, and their gaps (25 min) · [constellation registry slides](https://datatracker.ietf.org/doc/slides-interim-2026-space-01-sessa-constellation-registry-announced-filed-and-deployed-satellite-constellations-juan-a-fraire-inria-and-dan-york-internet-society/)
+- **15:30** Discussion: reference evaluation scenarios per area (LEO, cislunar, deep space), shared data sets, and which tools the RG could develop further. Moderated by Juan Fraire (30 min) · [slides](https://datatracker.ietf.org/doc/slides-interim-2026-space-01-sessa-whiteboard-discussion-reference-evaluation-scenarios-data-sets-and-tools-chairs/)
 
 ### 16:00 Coffee break (30 min)
 
